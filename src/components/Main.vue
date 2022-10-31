@@ -1,7 +1,6 @@
 <template>
 
   <div :key="paint.id" v-for="paint in DisplayedPaints">
-    <p>[</p>
     <p>
       {
         "Handle": "{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}",
@@ -59,7 +58,7 @@
         "Status": "draft"
       },
     </p>
-    <p :key="finish.id" v-for="finish in DisplayedFinishes">
+    <div :key="finish.id" v-for="finish in DisplayedFinishes">
       <p :key="variant?.name" v-for="variant in finish.variants">
         {
           "Handle": "{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}",
@@ -117,7 +116,7 @@
           "Status": "draft"
         },
       </p>
-    </p>
+    </div>
   </div>
 
 </template>
@@ -128,7 +127,7 @@ import AllPaints from '../data/AllPaints.json';
 import Finishes from '../data/Finishes.json';
 
 export default {
-  name: 'Placeholder',
+  name: 'Main',
   components: {
 
 	},

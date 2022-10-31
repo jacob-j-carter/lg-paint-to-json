@@ -59,7 +59,7 @@
       },
     </p>
     <div :key="finish.id" v-for="finish in DisplayedFinishes">
-      <p :key="variant?.name" v-for="variant in finish.variants">
+      <p :key="variant?.name" v-for="variant in finish.variants" :v-if="paint.finishes.includes(variant?.name)">
         {
           "Handle": "{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}",
           "Title": "",

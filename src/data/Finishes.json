@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Absolute Matt Emulsion",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 94
+      },
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 54.5
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 27.5
+      },
+      "250ml Sample Pot": {
+        "name": "250ml Sample Pot",
+        "price": 8
+      },
+      "60ml Sample Pot": {
+        "name": "60ml Sample Pot",
+        "price": 5.25
+      }
+    
+    }
+  },
+  {
+    "id": 2,
+    "name": "Intelligent Matt Emulsion",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 102
+      },
+      "25 ltr": {
+        "name": "2.5 ltr",
+        "price": 59.5
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 30.5
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Intelligent Eggshell",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 125
+      },
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 75.5
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 37
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Intelligent Gloss",
+    "variants": {
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 36
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Intelligent Satinwood",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 134
+      },
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 83.5
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 41
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Intelligent Floor Paint",
+    "variants": {
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 82
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 39
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Intelligent Masonry Paint",
+    "variants": {
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 79
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Limewash",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 60
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Distemper",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 85
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Interior Oil Eggshell",
+    "variants": {
+      "5 ltr": {
+        "name": "5 ltr",
+        "price": 129
+      },
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 79
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 39.5
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Traditional Oil Gloss",
+    "variants": {
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 79
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 39.5
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Intelligent Exterior Eggshell",
+    "variants": {
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 81
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 40
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Tom's Oil Eggshell",
+    "variants": {
+      "2.5 ltr": {
+        "name": "2.5 ltr",
+        "price": 84
+      },
+      "1 ltr": {
+        "name": "1 ltr",
+        "price": 41.5
+      }
+    }
+  }
+]

@@ -59,7 +59,7 @@
       },
     </p>
     <div :key="finish.id" v-for="finish in DisplayedFinishes">
-      <p :key="variant?.name" v-for="variant in finish.variants" :v-if="paint.finishes.includes(variant?.name)">
+      <p :key="variant?.name" v-for="variant in finish.variants" :v-show="paint.finishes.includes(finish.name)">
         {
           "Handle": "{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}",
           "Title": "",
@@ -86,8 +86,8 @@
           "Variant Requires Shipping": true,
           "Variant Taxable": true,
           "Variant Barcode": "",
-          "Image Src": "https://burst.shopifycdn.com/photos/green-t-shirt.jpg?width=5000",
-          "Image Position": 1,
+          "Image Src": "",
+          "Image Position": "",
           "Image Alt Text": "Image of {{ paint.name }} paint.",
           "Gift Card": false,
           "SEO Title": "Browse M2 Tiles & Paint Products",

@@ -115,26 +115,6 @@
     }
   },
   {
-    "id": 8,
-    "name": "Limewash",
-    "variants": {
-      "5 ltr": {
-        "name": "5 ltr",
-        "price": 60
-      }
-    }
-  },
-  {
-    "id": 9,
-    "name": "Distemper",
-    "variants": {
-      "5 ltr": {
-        "name": "5 ltr",
-        "price": 85
-      }
-    }
-  },
-  {
     "id": 10,
     "name": "Interior Oil Eggshell",
     "variants": {

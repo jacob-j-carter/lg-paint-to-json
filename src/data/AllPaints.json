@@ -2360,7 +2360,7 @@
   {
     "id": 248,
     "name": "Delicate Blue",
-    "description": "",
+    "description": "Charming and elegant, Delicate Blue is a linen-blue shade that offers subtle character to functional areas of the home. Combine this pale colour with a brighter white to intensify its blue tones. Or use a complementary grey to add depth and dimension to rooms with low ceilings.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2377,8 +2377,8 @@
   },
   {
     "id": 249,
-    "name": "Pale Wedgewood",
-    "description": "",
+    "name": "Pale Wedgwood",
+    "description": "A colour derived from the 18th century blue ‘Jasperware’, popularised by the innovative industrialist Josiah Wedgwood at his Etrurian pottery in Staffordshire.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2414,7 +2414,7 @@
   {
     "id": 251,
     "name": "Woad",
-    "description": "",
+    "description": "A popular blue pigment used to dye fabrics in medieval times, woad is a plant extract that produces a charming muted-indigo quality. A perfect backdrop to gilded picture frames.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2468,7 +2468,7 @@
   {
     "id": 256,
     "name": "Mazarine",
-    "description": "",
+    "description": "A truly neutral blue, not too green or violet, this stunning centrepiece shade takes its name from the tips of the wings of the Mazarine Blue butterfly.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2486,7 +2486,7 @@
   {
     "id": 257,
     "name": "Royal Navy",
-    "description": "",
+    "description": "A sumptuous blend of Royal Blue and Navy Blue, this is a charismatic alternative to dark grey or black in a neutral colour scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2503,8 +2503,8 @@
   },
   {
     "id": 260,
-    "name": "Airforce Blue",
-    "description": "",
+    "name": "Air Force Blue",
+    "description": "Historically, Air Force Blue is a generic term for a multitude of shades, mixed by individual squadrons. This version is deeper and richer than some, even more so when used on all the walls in a room. Transform your garden by using this vibrant blue paint on exterior walls.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2522,7 +2522,7 @@
   {
     "id": 263,
     "name": "Livid",
-    "description": "",
+    "description": "Tempered with black, ‘livid’ blues range from pink to green; this version is a deep, moody yet restful shade, sitting somewhere between blue, green and grey.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2540,7 +2540,7 @@
   {
     "id": 267,
     "name": "Blush",
-    "description": "",
+    "description": "This muted, rosy pink paint creates a strong statement without being overbearing. A beautiful, dusky hue, Blush offers an elegant, romantic quality that is very easy to live with. Pair with off-whites with pink undertones for a soft contrast. Use related darks to add depth to intimate areas, such as studies or reading nooks.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2557,7 +2557,7 @@
   },
   {
     "id": 268,
-    "name": "Greenstone - Pale",
+    "name": "Green Stone - Pale",
     "description": "",
     "finishes": [
       "Absolute Matt Emulsion",
@@ -2575,7 +2575,7 @@
   },
   {
     "id": 269,
-    "name": "Greenstone - Light",
+    "name": "Green Stone - Light",
     "description": "",
     "finishes": [
       "Absolute Matt Emulsion",
@@ -2593,8 +2593,8 @@
   },
   {
     "id": 270,
-    "name": "Greenstone",
-    "description": "",
+    "name": "Green Stone",
+    "description": "Bringing a sense of natural opulence, stone with a green hue has long been used in architectural decoration the world over. Less common than rock tinted with iron salts, naturally occurring green stones often contain traces of copper, or cobalt. Green Stone is redolent of the ancient colour “Green Earth” used in ancient Roman frescoes and Russian iconography; it is a mineral pigment form of Celadon.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2666,7 +2666,7 @@
   {
     "id": 274,
     "name": "Confetti",
-    "description": "",
+    "description": "Delicate and usable, Confetti is a light pink paint colour with hidden charm and romance. This classic colour contrasts well with darker shades, such as Lamp Black, to create a bold kitchen or dining scheme. Complement with other gentle hues like Carmine or Ashes of Rose, to create an effortlessly warming scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2684,7 +2684,7 @@
   {
     "id": 275,
     "name": "Hellebore",
-    "description": "",
+    "description": "Hellebore is a dusky pink paint, providing the right amount of prominence and sophistication for any room. Containing a muted violet note, Hellebore has subtle warmth meaning it is perfect for adding interest to classic schemes. For a balanced pink combination, use alongside Carmine with Pink Slip on panelling. Or pair with a green-based white for a timeless finish.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2702,7 +2702,7 @@
   {
     "id": 276,
     "name": "Grey Stone",
-    "description": "",
+    "description": "Don’t be fooled by the name, Grey Stone is undoubtedly a muted blue paint. Celestial in spirit yet completely down-to-earth, Grey Stone offers restful balance in bathrooms. Pair with subdued pink hues or a cool, blue-based greys for a classic scheme. Or use a burnt orange shade to create contrast in a contemporary scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2720,7 +2720,7 @@
   {
     "id": 277,
     "name": "Cordoba",
-    "description": "",
+    "description": "Create a dramatic effect with this distinctive, aubergine tone. Córdoba is best used in spaces with plenty of natural light to enhance its inherent richness. Use in a bathroom scheme for a truly luxurious feel. Or incorporate Middle Buff and Pleat alongside this deep purple brown to create a unique and striking space.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2738,7 +2738,7 @@
   {
     "id": 278,
     "name": "Pale Lupin",
-    "description": "",
+    "description": "Soft without being too muted, and warm without becoming too lavender, this is a beautiful feminine blue.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2756,7 +2756,7 @@
   {
     "id": 280,
     "name": "Pleat",
-    "description": "",
+    "description": "An haute couture colour inspired by the catwalk runways of Paris, Milan and London.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2846,7 +2846,7 @@
   {
     "id": 293,
     "name": "Pompeian Ash",
-    "description": "",
+    "description": "One of the most unusual British homes, 200-year-old Ickworth House in Suffolk was commissioned as the private residence of enigmatic world-traveller Frederick Hervey, on an estate the family had owned since the mid-15th century. The design of the 19th-century Pompeian room was based on ancient frescoes excavated at Villa Negroni, Rome. At Ickworth this dark grey-green performed the role of black in its striking Palladian colour scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2864,7 +2864,7 @@
   {
     "id": 295,
     "name": "Boringdon Green",
-    "description": "",
+    "description": "A serene, muted green paint, Boringdon Green was discovered in the dining room of Saltram House – the ‘most impressive country house in Devon’ that was the 18th-century mansion of John Parker, 1st Baron Boringdon. Introduced as part of a Georgian makeover by the most revered interior designer of the time, Robert Adam, this period green paint exudes historical provenance. Create a calm bathroom space alongside crisp white woodwork or use in an exterior scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2882,7 +2882,7 @@
   {
     "id": 296,
     "name": "Windmill Lane",
-    "description": "",
+    "description": "Bound on the east by Windmill Lane, Osterley Park is one of the largest open spaces in London, and in it sits a glorious manor house of the same name. Originally built as a country retreat for the banker Sir Thomas Gresham in the mid-1500s, it was remodelled 200 years later under the direction of celebrated architect Robert Adam. This soft, muted green, from the main stair and north passage, characterises his exquisite taste and understanding of colour.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2900,7 +2900,7 @@
   {
     "id": 297,
     "name": "Hopper",
-    "description": "",
+    "description": "The bold green Hopper was first seen on the exterior woodwork at the home of the equally vibrant playwright, George Bernard Shaw, who grew to love nature. This highly pigmented paint is admired for the way it matches the colour of the leaves in the garden when the sun shines through them. Use alongside a related pale green such as Acorn for a cohesive space.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2918,7 +2918,7 @@
   {
     "id": 298,
     "name": "Puck",
-    "description": "",
+    "description": "Shakespeare famously used the name in his 1600 work A Midsummer Night’s Dream, for the character also known as Robin Goodfellow, but the origin of the word Puck in folklore is older still. Consistently a mischievous but inherently lonely character, a primary goal for this fabled, pixie-like forest-dweller is the simple acquisition of friends.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2936,7 +2936,7 @@
   {
     "id": 303,
     "name": "Jewel Beetle",
-    "description": "",
+    "description": "Ellen Terry, a renowned Shakespearean actress, was immortalised as Lady Macbeth in an 1889 portrait by John Singer Sargent. In that painting she is seen in a spectacular green dress, crocheted to look like chainmail, embroidered with gold and decorated with a thousand iridescent wings from the green jewel beetle, which shed their colourful wings naturally. The dress is preserved within the Ellen Terry Museum at Smallhythe Place, the half-timbered Kent farmhouse she fell in love with and bought in 1899.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2954,7 +2954,7 @@
   {
     "id": 304,
     "name": "Ambleside",
-    "description": "",
+    "description": "In 1905, Hill Top Farm in Ambleside was bought by the legendary children’s writer Beatrix Potter as a home away from London. The farmhouse was fitted and furnished with many bargains from local sales and reflected Beatrix’s eclectic style. This attractive dark green paint colour with a muted blue undertone was used to complement the William Morris-designed daisy-motif wallpaper in Beatrix’s bedroom.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2972,7 +2972,7 @@
   {
     "id": 306,
     "name": "Three Farm Green",
-    "description": "",
+    "description": "The West Sussex estate on which Standen House sits was previously three farms, bought in 1890 by James Beale, a prosperous solicitor. He commissioned architect Philip Webb and the designer William Morris to build and furnish it. A fabulous example of an Arts & Crafts House, Standen is adorned in Morris’ distinctive style: wallpaper and fabric patterns, carpets and paint colours. This deep green can be seen on the panelling of the Dining Room, a backdrop to the Beale family’s collection of blue and white porcelain.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2990,7 +2990,7 @@
   {
     "id": 307,
     "name": "Hidey Hole",
-    "description": "",
+    "description": "Neither too warm nor too cool, Hidey Hole is a pale green paint that adds a sense of refreshing calm to any space. Inspired by the peaceful green that surrounded George Bernard Shaw’s Hertfordshire residence, where he created countless inspired plots and characters. The small hut was fondly dubbed ‘London’ and provided the tranquillity he needed to write. Pair with a related dark green such as Ambleside to create a sense of natural harmony.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3008,7 +3008,7 @@
   {
     "id": 310,
     "name": "Tea With Florence",
-    "description": "",
+    "description": "A highlight of Claydon House in Buckinghamshire, the Chinese Room is widely considered to be the finest surviving example of Chinoiserie in Britain. Eighteenth-century travel and international trade had given rise to an obsession with Asia and inspired the popular new ritual of tea drinking. Generations of Verneys used the Chinese Room as a private sitting room, and for taking tea with visitors, including Florence Nightingale, sister of 19th-century owner Lady Verney. Florence became a regular visitor, eventually occupying several of her own rooms at Claydon where she developed her important work in nursing.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3026,7 +3026,7 @@
   {
     "id": 311,
     "name": "Goblin",
-    "description": "",
+    "description": "Goblin is a rich green paint, inspired by architect, artist, poet and collector, Mr Charles Paget Wade. This confident shade takes inspiration from his rather mischievous character, as he was renowned for playing tricks on guests and was described by a neighbour as 'half a goblin'. Consider pairing Goblin with a green-based white such as Slaked Lime for a well-balanced scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3044,7 +3044,7 @@
   {
     "id": 312,
     "name": "Harley Green",
-    "description": "",
+    "description": "Harley Green is a strong green paint colour with a rich history. This deep blue-based green was originally used in Wimpole Hall, the largest house in Cambridgeshire. The Library, in which this deep green-blue features heavily, was designed and built between 1716 and 1721. Evoke its historic origins by pairing with a natural stone-based hue. For something a little more modern, contrast Harley Green with a vibrant shade such as Verditer Green.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3062,7 +3062,7 @@
   {
     "id": 313,
     "name": "Ferdinand",
-    "description": "",
+    "description": "Waddesdon Manor in Buckinghamshire was built by Baron Ferdinand de Rothschild in 1883 as a country retreat; a place to host weekend house parties and an escape from London during the summer months. This elegant, warm, off-white is found on the wall panelling in the Grey Drawing Room - a place where guests came to relax, play cards and listen to music.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3080,7 +3080,7 @@
   {
     "id": 314,
     "name": "Castell Pink",
-    "description": "",
+    "description": "This soft plaster-like shade is taken from a reading of the sculptural stonework which surrounds the great stairwell at Penrhyn Castle in North Wales.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3098,7 +3098,7 @@
   {
     "id": 315,
     "name": "Nether Red",
-    "description": "",
+    "description": "Since ancient times, Alderley Edge in Cheshire has been famous for its local copper mine, and for Nether Alderley Mill, a traditional flour mill which has been central to local agriculture for over 600 years. This beautiful and profound mud red is found in the bare sandstone walls of the original mill, and can be seen in its full glory on the south-west face.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3116,7 +3116,7 @@
   {
     "id": 316,
     "name": "Arras",
-    "description": "",
+    "description": "A spectacular Elizabethan house, Hardwick Hall was built by the formidable ‘Bess of Hardwick’ in the late 1500s. After Queen Elizabeth I, Bess was the wealthiest woman in England and her house was filled with rich furnishings and tapestries. Within the house, a chapel contains rare wall hangings, painted with scenes from the life of St Paul, where this deep, earthy red repeatedly features.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3134,7 +3134,7 @@
   {
     "id": 317,
     "name": "Lute",
-    "description": "",
+    "description": "The writer, music critic and BBC broadcaster Edward ‘Eddy’ Sackville-West, a peripheral character in the celebrated Bloomsbury Group of the 1920s, lived in several rooms in the Gatehouse Tower at his family home of Knole in Kent. Eddy’s private domain, accessed via a compact stone spiral staircase, included a bedroom, study and music room, where he would entertain fellow academics, philosophers, friends and lovers. This colour is taken from the fireplace in his bedroom, where it’s offset with a blue surround and charismatic lime-plastered walls.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3152,7 +3152,7 @@
   {
     "id": 318,
     "name": "Scullery",
-    "description": "",
+    "description": "Taken from the pantry door at Wimpole Hall, this shade is typical of the drab colours used to paint ‘back-of-house’ areas, where waiting staff would prepare meals and refreshments for the owners of such grand country mansions. These colours were popular because they didn’t show dirt or damage easily, and were thriftily produced by blending leftover paints and pigments from the decoration of the main house.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3170,7 +3170,7 @@
   {
     "id": 319,
     "name": "Travertine",
-    "description": "",
+    "description": "In its varied history, Basildon Park has served 150 years as a grand family home, a period as a convalescent hospital in World War 1, an army barracks in World War 2, and even survived an attempt to be dismantled and rebuilt brick-by-brick in America. Fortunately, in the 1950s it came into the philanthropic hands of Lord and Lady Iliffe who endowed upon it a passion for renaissance interiors. This warm neutral was used on the walls of the Staircase Hall, designed to feel more like a sitting room than a cold corridor.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3188,7 +3188,7 @@
   {
     "id": 320,
     "name": "Elysian Ground",
-    "description": "",
+    "description": "In 1738 the architect William Kent – renowned for his follies - designed a small, stilted, timber garden room to stand in the middle of a pond within the Elysian Fields at Stowe in Buckinghamshire. It was first decorated by the Italian painter Francesco Sleter, who combined figurines, foliage and calligraphy in an intricate Chinoiserie style, with this sumptuous deep stone colour as a background. Paint research has shown this treasured building was repainted at least twice in the 19th-century and again in 1937. Following periods in Wotton, a neighbouring estate, and Ireland, the Chinese House was returned to Stowe to undergo a complete – but faithful – refurbishment in 1996.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3206,7 +3206,7 @@
   {
     "id": 321,
     "name": "Baluster",
-    "description": "",
+    "description": "An authentic grey limestone, this shade is read directly from the carved balustrade which accompanies the Castell Pink stonework in the great stairwell at Penrhyn Castle. It was commissioned by the castle’s owner, a wealthy slate baron, and took 10 years to complete. The intermediate depth of this colour makes it a versatile shade, useful in both traditional and contemporary schemes. Highly impactful used in isolation, it’s also very easy to coordinate with a range of natural stone and wood surfaces.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3224,7 +3224,7 @@
   {
     "id": 322,
     "name": "Book Room Green",
-    "description": "",
+    "description": "At the turn of the 19th century, the Book Room at Wimpole Hall was remodelled by neoclassical architect John Soane. Driven by Wimpole’s owner’s keen architectural interest, the room doubled in size and this neutral green was specified as a foil to the room’s fine white plasterwork and shelving, and the thousands of deep red embossed leather book spines which covered the walls. The property was later acquired by Captain George Bambridge and his wife, Elsie, daughter of Rudyard Kipling. Kipling’s legacy and own book royalties paid for the refurbishment of the house before it was left to the Trust in 1976.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3242,7 +3242,7 @@
   {
     "id": 323,
     "name": "Light Beauvais",
-    "description": "",
+    "description": "A subtle reduction of the delicate Beauvais Lilac™ 29, this shade offers a notable warmth when used against Loft White™ 222. For a very soft contrast, pair it with Ferdinand™ 313 and bring depth to the scheme using deeper, related tones: Nether Red™ 315 and Arras™ 316.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3260,7 +3260,7 @@
   {
     "id": 324,
     "name": "Vulcan",
-    "description": "",
+    "description": "Sharing its name with the Roman God of Fire, this shade is inherently strong; a deep, charismatic, charcoal grey - with a little warmth retained.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3296,7 +3296,7 @@
   {
     "id": 326,
     "name": "Etruria",
-    "description": "",
+    "description": "A classic colour inspired by the work of renowned potter Josiah Wedgwood who named his Staffordshire ceramic factory ‘Etruria’ in 1769. The title was a tribute to his passion for the forms, colours and decoration of ancient Etruscan and Greek pottery, which he expertly recreated and brought to English high society in the late-18th century.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3314,7 +3314,7 @@
   {
     "id": 327,
     "name": "Obscura",
-    "description": "",
+    "description": "An elegant, gentle blue-grey, this shade sits effortlessly in the tail of the Gauze Colour Scales family. Equally elegant used in solitude as among the lighter Gauze shades, this cool neutral works beautifully with natural floor textures; sisal, coir and jute.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3350,7 +3350,7 @@
   {
     "id": 329,
     "name": "Silent White",
-    "description": "",
+    "description": "Formulated in the quest for the perfectly balanced, neutral-warm white for a calm interior. Add softly-spoken depth to the room by using its lighter and deeper versions on other walls, the ceiling and trim.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3440,7 +3440,7 @@
   {
     "id": 334,
     "name": "Masquerade",
-    "description": "",
+    "description": "With its delicate, powder-like hue, Masquerade – alongside the diluted versions of it – offers an alluring, natural undertone that is as ‘at-home’ in the bedroom as in the ballroom.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3458,7 +3458,7 @@
   {
     "id": 335,
     "name": "Indian Yellow",
-    "description": "",
+    "description": "Between the 16th and 19th centuries, the pigment Indian Yellow was a much more prolific ingredient in the oil paint of fine artists than in the decorative paints of the time. Our colour shares all the timeless qualities of its namesake, but thankfully none of its well-documented original ingredients or production methodologies.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3476,7 +3476,7 @@
   {
     "id": 336,
     "name": "Bassoon",
-    "description": "",
+    "description": "With its deep-ochre undertone, Bassoon is an unsung hero of historical decoration. These drab colours were favourites in the functional ‘back-of-house’ areas of yesterday’s grand homes due to their ability to disguise dirt, and the subsequent infrequency with which they needed to be repainted.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -3494,7 +3494,7 @@
   {
     "id": 337,
     "name": "Giallo",
-    "description": "",
+    "description": "In celebration of the Italian influence on British architecture and interior design over the last 400 years, Giallo is an uncompromising, yet very easy-to-use, burst of golden sunshine. A charming highlight or accent colour, it’s most splendid when used in a large expanse.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",

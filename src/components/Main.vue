@@ -5,7 +5,7 @@
       {
         "Handle": "{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}",
         "Title": "{{ paint.name }} ({{ paint.id }})",
-        "Body (HTML)": "{{ paint.description }}",
+        "Body (HTML)": "`<p><span>{{ paint.name }}. {{ paint.description }}</span></p>{{ DefaultDescription }}`",
         "Vendor": "Little Greene",
         "Product Category": "Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts > Art & Crafting Materials > Craft Paint, Ink & Glaze > Paint Mediums",
         "Type": "Paint",
@@ -28,7 +28,7 @@
         "Variant Requires Shipping": true,
         "Variant Taxable": true,
         "Variant Barcode": "",
-        "Image Src": "https://burst.shopifycdn.com/photos/green-t-shirt.jpg?width=5000",
+        "Image Src": "https://painttojson.netlify.app/{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}.jpg",
         "Image Position": 1,
         "Image Alt Text": "Image of {{ paint.name }} paint.",
         "Gift Card": false,
@@ -137,7 +137,9 @@ export default {
   data () {
     return {
       DisplayedPaints: AllPaints,
-      DisplayedFinishes: Finishes
+      DisplayedFinishes: Finishes,
+      DefaultDescription: `<p><span><strong><a href=""https://pittville-paint.myshopify.com/pages/finishes-guide"">If you need help selecting the correct finish, click here to go to our 'Finishes Guide'.</a></strong></span></p>
+<p><br><strong>DON'T FORGET!</strong><br>Do you require primer or undercoat for your project?<br>If so, there are three options for you...<br><br><em><span style=""text-decoration: underline;"">Intelligent ASP</span> (All Surface Primer)</em><br>Water-based primer undercoat suitable for painting on all interior and exterior surfaces.<br>Two hour drying time and low 5-7% sheen.<br><strong>TO ORDER</strong> : This primer is tinted in the colour of your top coat, so use the selection tool above to add this to your order.<br><br><span style=""text-decoration: underline;""><em>Aluminium Wood Primer</em></span><strong><br></strong>Aluminium Wood Primer is recommended for use on new and bare interior and exterior woodwork.Formulated on a high quality aluminium base, this primer is ideal for front doors, exterior joinery and sealing resinous woods. Can also be used as a stain block.<br><strong>TO ORDER</strong> : <a href=""https://pittville-paint.myshopify.com/products/aluminium-wood-primer"">click here.</a><br><br><span style=""text-decoration: underline;""><em>Wall Primer Sealer</em></span><br>A high-quality water-based primer for new, unpainted or friable (crumbly) walls and ceilings. Suitable for both interior and exterior use.<br>this primer seals and stabilises the surface and controls the absorption of the surface to prevent patchiness of the finish.<br><strong>TO ORDER</strong> :<a href=""https://pittville-paint.myshopify.com/products/wall-primer-sealer?_pos=1&amp;_sid=4983ce6d5&amp;_ss=r"">click here.</a><strong><br><br></strong></p>`
     }
   },
   // methods: {

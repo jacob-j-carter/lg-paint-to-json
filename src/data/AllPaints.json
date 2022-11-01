@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "China Clay",
-    "description": "",
+    "description": "China Clay is a warm white paint inspired by the raw clays of St Austell. Used in ceramics throughout the ages, this pale neutral paint colour offers cheerful undertones. With a Light Reflectance Value of 78, use China Clay in rooms with limited sunlight to brighten the space. Pair with neutrals or pinks for a warm, restful scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Light Peachblossom",
-    "description": "",
+    "description": "A rather exclusive colour once used in the Royal Pavilion, Brighton and in the dining room of the Regency Town House.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -38,7 +38,7 @@
   {
     "id": 6,
     "name": "Ashes of Roses",
-    "description": "",
+    "description": "A soft brownish red which mixes the primary red with the secondary green, Ashes of Roses is a warm paint colour favoured for its depth and discretion. Create an inspiring scheme using coordinating colours like pale pinks or mid greys. Or paint all walls of a living space in Ashes of Roses for a romantic, nostalgic feel.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Adventurer",
-    "description": "",
+    "description": "Regal and reassuring, Adventurer is a timeless plum paint shade. This rich aubergine colour works beautifully in bedrooms to create atmosphere and intimacy. Consider related neutrals or pale pink pairings to create restful balance. For larger spaces, opt for a related dark shade to make a bold statement.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -74,7 +74,7 @@
   {
     "id": 13,
     "name": "Mischief",
-    "description": "",
+    "description": "An exciting and glamorous shade mixing magenta and violet to an intoxicating effect.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -92,7 +92,7 @@
   {
     "id": 14,
     "name": "Baked Cherry",
-    "description": "",
+    "description": "Sumptuous and wonderfully rich, Baked Cherry is a classic crimson red paint. Perfect for an intimate ambience, this deep red shade is best suited to dining rooms and studies. Pair with a related dark green to enhance the elegance of your space.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -110,7 +110,7 @@
   {
     "id": 15,
     "name": "Bronze Red",
-    "description": "",
+    "description": "Bronze Red is a timeless Victorian red with a smart sense of character. This deep shade creates an intimate atmosphere in large, airy rooms. While its name is more commonly used to describe the bronze lustre of printing inks, here it has been taken from a late 19th-century book of paint colours. Balance this historical red paint alongside similarly resonant shades, such as Hicks’ Blue or Yellow-Pink.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -128,7 +128,7 @@
   {
     "id": 21,
     "name": "Orange Aurora",
-    "description": "",
+    "description": "A popular accent colour used with Magnolia on the walls and pinky beige on the doors.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -146,7 +146,7 @@
   {
     "id": 24,
     "name": "Heat",
-    "description": "",
+    "description": "A strong and contemporary burnt orange, Heat is a highly pigmented paint that can be used effectively as an accent in many schemes. It works especially well in outdoor spaces, to add subtle vibrancy to garden fences or wooden gates. Or use sparingly on architectural features to add relief to dark colour drenching schemes.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -164,7 +164,7 @@
   {
     "id": 25,
     "name": "Hollyhock",
-    "description": "",
+    "description": "A warm and pale colour, Hollyhock is a beloved, yellow-based neutral paint. Pair with a clean white like Loft White for a soft neutral backdrop. For depth and interest, consider using Nether Red or Masquerade to add a touch of elegance. Or use Hollyhock as a neutral with Heat for a rich, contemporary design.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -182,7 +182,7 @@
   {
     "id": 26,
     "name": "Julie's Dream",
-    "description": "",
+    "description": "A light pinky shade based on umber which gives warmth without being too sweet.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -200,7 +200,7 @@
   {
     "id": 29,
     "name": "Beauvais Lilac",
-    "description": "",
+    "description": "An enigmatic shade, Beauvais Lilac is a warm neutral paint with calming properties. This soft, fresh hue is based on a number of colours found on the tapestries at the royal factory in Beauvais, Picardy. Use to balance a related blush pink or deep red for a rich and romantic scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -218,7 +218,7 @@
   {
     "id": 31,
     "name": "Roman Plaster",
-    "description": "",
+    "description": "A darker version of Regency Fawn (No.30).",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -236,7 +236,7 @@
   {
     "id": 33,
     "name": "Linen Wash",
-    "description": "",
+    "description": "A broken and pared down natural linen colour,should be used in place of white in many projects.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -254,7 +254,7 @@
   {
     "id": 34,
     "name": "Stone-Pale-Warm",
-    "description": "",
+    "description": "A more honeyed tone than its cool counterpart.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -272,7 +272,7 @@
   {
     "id": 37,
     "name": "Stock",
-    "description": "",
+    "description": "A subtle pastel shade of white from the fragrant country flower.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -290,7 +290,7 @@
   {
     "id": 38,
     "name": "Hammock",
-    "description": "",
+    "description": "Hammock is a warm neutral paint with umber undertones, a firm favourite in many country houses of England. An unbleached calico-replacing white, Hammock provides a timeless backdrop that sits comfortably in both modern and traditional homes. Consider using Hammock on the ceiling with a muted pink such as Blush on the walls for a soft, romantic look.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -308,7 +308,7 @@
   {
     "id": 39,
     "name": "Clay",
-    "description": "",
+    "description": "A warm neutral paint that sits comfortably in both modern and period interiors, Clay is a new version of a Regency Fawn. By leaning toward ochre, it adds warmth to any space. For a bright and fresh tonal scheme, pair with other shades from our Clay colour scales family. Or, for something richer scheme, co-ordinate with earthy tones such as Jewel Beetle and Scullery.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -326,7 +326,7 @@
   {
     "id": 40,
     "name": "Silt",
-    "description": "",
+    "description": "A deep warm clay with exceptional texture and character.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -344,7 +344,7 @@
   {
     "id": 41,
     "name": "Whitening",
-    "description": "",
+    "description": "[Georgian] Originally created by mixing chalk with water and a binder to make light reflective ceilings.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -362,7 +362,7 @@
   {
     "id": 46,
     "name": "Yellow-Pink",
-    "description": "",
+    "description": "'Pink' was once used in connection with a yellow obtained from the Woad plant. A rich earthy colour which was also used to dye wallpaper.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -380,7 +380,7 @@
   {
     "id": 47,
     "name": "Mister David",
-    "description": "",
+    "description": "Our brightest yellow, has been used to capture the sun in French country kitchens.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -398,7 +398,7 @@
   {
     "id": 49,
     "name": "First Light",
-    "description": "",
+    "description": "Soft, natural and new, First Light is a warm neutral paint with a touch of yellow. Inspired by the essence of light at dawn, this peaceful shade is ideal for walls and ceilings in many areas around the home.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -416,7 +416,7 @@
   {
     "id": 53,
     "name": "Light Gold",
-    "description": "",
+    "description": "A delightful warm colour originally conceived from chrome yellow, white and a dash of vermilion.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -434,7 +434,7 @@
   {
     "id": 56,
     "name": "Invisible Green",
-    "description": "",
+    "description": "Made popular by the landscape gardener Humphry Repton who recommended it for fencing and railings so that they would blend better with the background vegetation.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -452,7 +452,7 @@
   {
     "id": 63,
     "name": "Oak Apple",
-    "description": "",
+    "description": "The wet wood colour-a deep verdant cream, subtle and calm.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -470,7 +470,7 @@
   {
     "id": 64,
     "name": "Bath Stone",
-    "description": "",
+    "description": "A warm neutral paint, Bath Stone is equally suited to historic and contemporary settings. Originally used to paint the facades of Victorian town houses, this comforting neutral is a timeless choice. Use this historical paint colour in both outdoor and interior living spaces, pairing with related mid-browns for a harmonious scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -488,7 +488,7 @@
   {
     "id": 70,
     "name": "Pale Lime",
-    "description": "",
+    "description": "A gentle colour which would have been teamed with a darker blue green and a grey.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -506,7 +506,7 @@
   {
     "id": 71,
     "name": "Citrine",
-    "description": "",
+    "description": "Citrine is a luxurious warm green shade with a touch of yellow. With a Light Reflectance Value of 24, this vibrant paint shade works beautifully in north-facing rooms alongside a pale greeny-yellow or chocolate brown. Use Citrine as a focal colour alongside grey-based whites. Or be bold by pairing with a Pale Lime accent.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -524,7 +524,7 @@
   {
     "id": 72,
     "name": "Olive Colour",
-    "description": "",
+    "description": "This was a fashionable colour despite its price tag. Mrs Delany, the 18th century writer, records having her English room 'painted a sort of olive for the sake of my pictures'.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -542,7 +542,7 @@
   {
     "id": 74,
     "name": "White Lead",
-    "description": "",
+    "description": "An aged creamy white which was named after the original house-painting pigment, lead carbonate, created when ground with raw linseed oil.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -560,7 +560,7 @@
   {
     "id": 77,
     "name": "Portland Stone",
-    "description": "",
+    "description": "Matched to an example of original Portland Stone and used to paint the facades of Victorian town houses.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -578,7 +578,7 @@
   {
     "id": 78,
     "name": "Tracery II",
-    "description": "",
+    "description": "This lighter version of Normandy Grey (No.79) is a very sophisticated colour favoured by architects it can be used with great style to off-set limestone, marble and granite.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -596,7 +596,7 @@
   {
     "id": 79,
     "name": "Normandy Grey",
-    "description": "",
+    "description": "A timeless grey stone with undisputed elegance and personality.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -614,7 +614,7 @@
   {
     "id": 80,
     "name": "Sage Green",
-    "description": "",
+    "description": "This was one of the colours enjoyed by the Victorians 'on account of their repose to the sight, and their solid and quiet tone'.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -632,7 +632,7 @@
   {
     "id": 84,
     "name": "Boxington",
-    "description": "",
+    "description": "A truly vibrant shade, this reduced lime green paint is infused with red-oxide of iron for warmth. Boxington provides a relaxing and elegant backdrop in dining rooms and studios. Consider pairing this green shade with floral wallpaper to achieve a bold, natural scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -650,7 +650,7 @@
   {
     "id": 85,
     "name": "Kitchen Green",
-    "description": "",
+    "description": "A popular colour that hints at the orchard and eases the transition from the inside to the garden.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -668,7 +668,7 @@
   {
     "id": 86,
     "name": "Garden",
-    "description": "",
+    "description": "Warm and gentle, Garden is a versatile green paint. A reduced colour of Light Brunswick Green, Garden was formulated with extra white to create a colour which is midsummer itself. Use this shade in south-facing rooms that enjoy plenty of natural light to fully embrace its rich green pigment. Balance with a lighter green, or use an earthy brown like Scullery for a more rustic look.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -686,7 +686,7 @@
   {
     "id": 87,
     "name": "Acorn",
-    "description": "",
+    "description": "A fresh and bright pale green, Acorn is full of optimism and ideal for adding light to kitchens, conservatories, or dark hallways. Pair this paint colour with a coordinating green for a harmonious scheme, or use an accent from the opposite side of the colour wheel to enliven a room.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -704,7 +704,7 @@
   {
     "id": 88,
     "name": "Dark Brunswick Green",
-    "description": "",
+    "description": "A smart and confident shade, Dark Brunswick Green was used extensively on front doors and railings in the Victorian period. It continues to be a perfect choice for modern interior and exterior woodwork. A bold, deep green paint colour, Dark Brunswick Green complements the Portland Stone tonal family in stylish utility spaces. For a cocooning, all-over green scheme, use alongside Pea Green or Aquamarine Deep.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -722,7 +722,7 @@
   {
     "id": 91,
     "name": "Pea Green",
-    "description": "",
+    "description": "A soft peaceful colour which was recommended for dining rooms where the rest of the house was painted in stone colour.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -740,7 +740,7 @@
   {
     "id": 92,
     "name": "Green Verditer",
-    "description": "",
+    "description": "Green Verditer is a strong-toned, bright green paint, which works well as an accent colour in modern interior schemes. A by-product of the silver refining process, this copper carbonate-based pigment was first used in the Book Room of Broughton House. Consider pairing this unique shade with cool whites for a harmonious scheme. Or opt for a muted blue to create a contrasting statement in larger rooms.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -758,7 +758,7 @@
   {
     "id": 94,
     "name": "Canton",
-    "description": "",
+    "description": "Inspired by the blues of Chinese rugs, ceramics and textiles, Canton pairs beautifully with off-whites. This rich blue-green paint is stunning when it adorns the walls of south-facing rooms. Pair with wallpapers containing blues and yellows for a bright and stylish space, or enrich its resonance alongside related neutrals.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -776,7 +776,7 @@
   {
     "id": 95,
     "name": "Marine Blue",
-    "description": "",
+    "description": "In a west-facing room it was recommended that this colour be used in combination with a pale grey and a coral red.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -794,7 +794,7 @@
   {
     "id": 96,
     "name": "Mid Azure Green",
-    "description": "",
+    "description": "The depth of this shade made it an expensive colour to produce, even in the 20th century. A splendid deep teal.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -812,7 +812,7 @@
   {
     "id": 99,
     "name": "Salix",
-    "description": "",
+    "description": "This cool silver can be used with dark and vibrant colours for a particularly sophisticated scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -830,7 +830,7 @@
   {
     "id": 100,
     "name": "Pearl Colour",
-    "description": "",
+    "description": "This is a grey variant which was listed by Sir William Chambers as 'used on the beds of elaborate late 18th century ceilings'.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -848,7 +848,7 @@
   {
     "id": 101,
     "name": "Celestial Blue",
-    "description": "",
+    "description": "This charming, timeless blue paint colour derives from a rare surviving colour card from 1807. Suited to both interior and exterior schemes, Celestial Blue can appear blue, green or grey depending on the light. For a moody scheme with plenty of character, pair with dark greens. For a more classic pairing, complement this muted shade with a brighter blue.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -866,7 +866,7 @@
   {
     "id": 103,
     "name": "Sky Blue",
-    "description": "",
+    "description": "Made with Prussian blue to bring the summer sky indoors. Originally available in oil paint and distemper,it was first used in the dining room of Moy House",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -884,7 +884,7 @@
   {
     "id": 104,
     "name": "Blue Verditer",
-    "description": "",
+    "description": "An especially English blue paint, this signature shade is well suited to dining areas. Historically, Blue Verditer was frequently used in distemper or as part of wallpaper colourways, and traces can be found in the revered Kenwood House in London. Feature in a palette of blues and reds for a bold, uncompromising scheme. Or pair with related neutrals to add restful balance to this timeless shade.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -902,7 +902,7 @@
   {
     "id": 105,
     "name": "Slaked Lime",
-    "description": "",
+    "description": "A pure and neutral white made with a combination of minerals to give a warm and soft appearance.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -920,7 +920,7 @@
   {
     "id": 106,
     "name": "Gauze",
-    "description": "",
+    "description": "Cool yet comforting, Gauze is a lamp-black white paint that sits well in many interior schemes. An ideal choice for creating a blank canvas upon which bold accessories can become a focal point. Part of the same family as the Lead colour range, Gauze is a cooler shade that is best suited to minimalist schemes. Pair with related deep blues for a scheme reminiscent of serene waters.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -938,7 +938,7 @@
   {
     "id": 107,
     "name": "Bone China Blue",
-    "description": "",
+    "description": "Fresh and uplifting, this blue paint with grey undertones is a versatile choice for any area of the home. Bone China Blue is inspired by Wedgwood Jasperware collections from the late 18th century. This poignant, 1930s translation of a classic blue sits comfortably in period properties and modern homes alike. Pair with related neutrals for a scheme that exudes peace and tranquillity.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -956,7 +956,7 @@
   {
     "id": 108,
     "name": "James",
-    "description": "",
+    "description": "A pretty powder blue alternate, warmer than many blues by the inclusion of white and violet.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -974,7 +974,7 @@
   {
     "id": 112,
     "name": "Mambo",
-    "description": "",
+    "description": "A signature shade from Little Greene. Wake up and dance!",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -992,7 +992,7 @@
   {
     "id": 113,
     "name": "French Grey",
-    "description": "",
+    "description": "This original Victorian colour, part of the French Grey family, is one of the most popular paint colours on our card. A classic, timeless and extremely versatile shade, French Grey is equally valuable in the traditional home and the modern interior - calm living spaces, hallways, bathrooms and bedrooms. Also a great neutral colour to use in floor paint on wooden or concrete floors, or as a backdrop to brighter highlight colours such as Marigold, Mister David and Green Verditer.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1010,7 +1010,7 @@
   {
     "id": 114,
     "name": "Mid Lead Colour",
-    "description": "",
+    "description": "The darker lead colour provides a more powerful finish and was favoured on woodwork and doors.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1028,7 +1028,7 @@
   {
     "id": 115,
     "name": "Juniper Ash",
-    "description": "",
+    "description": "This deep blue paint creates a warm colour scheme for an intimate atmosphere, indoors or on exterior woodwork. Browse our range of luxury blue paint online.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1046,7 +1046,7 @@
   {
     "id": 116,
     "name": "Thai Sapphire",
-    "description": "",
+    "description": "A saturated and hot blue-adds splendour and drama to a scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1064,7 +1064,7 @@
   {
     "id": 117,
     "name": "Lead Colour",
-    "description": "",
+    "description": "Another 'common' Georgian colour which once graced the London residence of composer George Frederick Handel.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1082,7 +1082,7 @@
   {
     "id": 118,
     "name": "Dark Lead Colour",
-    "description": "",
+    "description": "Dark Lead Colour is a timeless slate grey paint. An extremely durable colour, it was reserved for ironwork and gates during the Georgian era. In modern homes, this elegant dark grey works well in small spaces to create a sense of intimacy and an encompassing feel. Use Leather as a contrasting accent or coordinate with Light Peachblossom or Castell Pink to create a sophisticated neutral scheme that stands the test of time.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1100,7 +1100,7 @@
   {
     "id": 119,
     "name": "Jack Black",
-    "description": "",
+    "description": "The soot from a burning oil is collected to produce this pigment - this colour is absolute black.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1118,7 +1118,7 @@
   {
     "id": 122,
     "name": "Middle Buff",
-    "description": "",
+    "description": "This darker buff made its name on the first British Standard range of paint colours and can be found on many 1930s buildings.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1136,7 +1136,7 @@
   {
     "id": 123,
     "name": "Light Bronze Green",
-    "description": "",
+    "description": "One of the many variants of a colour designed to resemble bronze in its patinated form.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1154,7 +1154,7 @@
   {
     "id": 124,
     "name": "Chocolate Colour",
-    "description": "",
+    "description": "Chocolate Colour is a deep brown paint colour that offers a warm alternative to black. It is believed that George Frideric Handel and Benjamin Franklin had their London front doors painted in this rich, almost edible shade. Draw out the natural warmth of Chocolate Colour by pairing with shades that have a red undertone. Or use in an all-over scheme to create a cocooning space.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1172,7 +1172,7 @@
   {
     "id": 129,
     "name": "Shirting",
-    "description": "",
+    "description": "A pure white based on natural minerals without optical brightener- a classic heritage white.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1190,7 +1190,7 @@
   {
     "id": 130,
     "name": "Joanna",
-    "description": "",
+    "description": "The palest of taupes, created for us by Joanna, a warm and easy white for many schemes.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1208,7 +1208,7 @@
   {
     "id": 135,
     "name": "Sunlight",
-    "description": "",
+    "description": "A true reduction of ochre and titanium brightened with a dash of organic yellow.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1226,7 +1226,7 @@
   {
     "id": 137,
     "name": "Apple",
-    "description": "",
+    "description": "A superb tertiary ground colour, Apple is a charming green paint with subtle yellow undertones. Curate a contemporary green scheme alongside soft furnishings and a related white to highlight interior features. This bright shade works most effectively in kitchens, outdoor spaces and other areas that benefit from natural light.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1244,7 +1244,7 @@
   {
     "id": 138,
     "name": "Aquamarine",
-    "description": "",
+    "description": "This classic blend of blue and green with umber undertones brings a gentle coolness and tranquility to a room. Aquamarine is ideal for use in high-traffic rooms, like the kitchen or dining area. It works harmoniously with the other shades of the Aquamarine colour scales family, or alongside white for a clean, uncluttered scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1262,7 +1262,7 @@
   {
     "id": 139,
     "name": "Chemise",
-    "description": "",
+    "description": "Chemise is a subdued and delicate pink paint that brings warmth and intimacy to any room. For an effortlessly harmonious scheme, pair with complementary pink hues. Or combine with warm whites by using Chemise as an accent colour on skirting boards or cornices.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1280,7 +1280,7 @@
   {
     "id": 140,
     "name": "Tuscan Red",
-    "description": "",
+    "description": "Chalky and intense deep terracotta red; found naturally as a complex oxide of iron,this pigment has been used over the centuries to colour paints and cosmetics.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1298,7 +1298,7 @@
   {
     "id": 142,
     "name": "Mushroom",
-    "description": "",
+    "description": "The classic gentle interior colour - neutral with a hint of red oxide for warmth.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1316,7 +1316,7 @@
   {
     "id": 143,
     "name": "Rolling Fog",
-    "description": "",
+    "description": "A beautiful warm neutral - used historically as a white with darker colours.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1334,7 +1334,7 @@
   {
     "id": 144,
     "name": "Attic II",
-    "description": "",
+    "description": "A dark and more complex version of Silt, Attic II is a warm brown paint shade with deep natural tones that can create an arresting scheme. Use this confident, earthy hue in high traffic areas alongside a related neutral for a subtle finish. Or choose an elegant contrasting shade like Sky Blue, to create a scheme that evokes earth and sky.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1352,7 +1352,7 @@
   {
     "id": 148,
     "name": "Carys",
-    "description": "",
+    "description": "A pale-yellow paint colour from the Regency period, Carys is excellent as an accent highlight alongside darker greys and related neutrals. For a bright but gentle scheme, combine with whites with yellow undertones. For more impact, consider teaming Carys with statement wallpapers, such as Belton Scenic in Sunbeam.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1766,7 +1766,7 @@
   {
     "id": 189,
     "name": "Carmine",
-    "description": "",
+    "description": "Confident with an air of sophistication, Carmine is a dusky pink paint colour originating from 1968. This fun pink is perfect for a children's bedroom, but also pairs well with Cordoba or Dark Lead as an accent colour within a distinguished scheme. For use in a larger space, balance this pink paint with a related neutral for a harmonious feel.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1784,7 +1784,7 @@
   {
     "id": 190,
     "name": "Atomic Red",
-    "description": "",
+    "description": "A powerful, primary shade, Atomic Red is a bright red paint colour with a cheerful disposition. This bold red made its way to the English decorative paint market after the immigration swell in the 1970s. Use with related whites to achieve a classic interior or create a modern scheme with a blue-green pairing.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1802,7 +1802,7 @@
   {
     "id": 191,
     "name": "Leather",
-    "description": "",
+    "description": "The brightest of pinks, this signature 1970s colour was used in conjunction with Marigold and Purpleheart in the most arresting colour schemes of the time.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1820,7 +1820,7 @@
   {
     "id": 192,
     "name": "Theatre Red",
-    "description": "",
+    "description": "A sophisticated burgundy shade from the late 1970s which saw continued popularity into the next decade alongside Deep Space Blue and Vincent.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1838,7 +1838,7 @@
   {
     "id": 196,
     "name": "Trumpet",
-    "description": "",
+    "description": "An accent colour, derived from the development of strong coloured plastics. Popular when used sparingly in more neutral environments and sometimes used as a joinery colour for flush door faces and architraves, particularly towards the end of the decade and into the early 1980s.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1855,8 +1855,8 @@
   },
   {
     "id": 198,
-    "name": "Aquamarine Deep",
-    "description": "",
+    "name": "Aquamarine - Deep",
+    "description": "A vibrant combination of blue and green, Aquamarine Deep is the perfect paint for kitchens and dining areas. This bold colour pairs well with pale and mid browns on walls, furniture and accessories. Consider a contrasting accent colour to add character and bring out the complexity of this high-pigment paint.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1874,7 +1874,7 @@
   {
     "id": 199,
     "name": "Phthalo Green",
-    "description": "",
+    "description": "Taking its name from the dye pigment, this electric green was extolled in the March 1971 edition of Ideal Home by the interior designer David Mlinaric, who championed strong multi-coloured schemes and suggested the use of this green with ochre shades.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1892,7 +1892,7 @@
   {
     "id": 203,
     "name": "Brighton",
-    "description": "",
+    "description": "An extremely versatile blue-green paint, Brighton offers a fresh, calm touch to spacious interiors. With connotations of the British seaside, this cool paint colour was embraced by home decorators in the 1960s and is well suited to lively areas such as children’s bedrooms or kitchens. Pair with earthy greens for a scheme that evokes coastal landscapes. Explore the shared origin of Brighton and Spearmint.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1910,7 +1910,7 @@
   {
     "id": 206,
     "name": "Tivoli",
-    "description": "",
+    "description": "A variation on Tropez Blue and, being cleaner, was a successful foil to darker true blues.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1928,7 +1928,7 @@
   {
     "id": 207,
     "name": "Deep Space Blue",
-    "description": "",
+    "description": "Deep Space Blue is a vibrant blue paint which provides any space with an uplifting, calm atmosphere. As with Lawnmower Green, this shade achieved its greatest provenance sometime after its introduction. Deep Space Blue became a mainstay in Laura Ashley’s cottage style, and also featured in Terence Conran’s New House Book of the 1980s. Combine this strong, resonant shade with a complementary pale blue for a harmonious scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1945,8 +1945,8 @@
   },
   {
     "id": 208,
-    "name": "Hicks Blue",
-    "description": "",
+    "name": "Hicks' Blue",
+    "description": "Hicks' Blue is a deep inky blue paint used by prominent 60s and 70s designer, David Hicks. Hicks was known for using powerful colours in combination to dramatic effect. He also worked on many commercial projects and used this blue in the restaurant at the top of the London Telecom Tower in 1962. Pair with a related white such as Slaked Lime for a sophisticated finish.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1964,7 +1964,7 @@
   {
     "id": 209,
     "name": "Marigold",
-    "description": "",
+    "description": "Another of the new spice colours introduced to this country in the 1970s, this bright paint colour was hugely popular in the hallmark orange and brown colour schemes.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -1982,7 +1982,7 @@
   {
     "id": 213,
     "name": "Dorchester Pink",
-    "description": "",
+    "description": "Dorchester Pink is a comforting pink paint, originally used in the Dorchester Hotel in the 1960s. An article at the time suggested that the colour provides an unusually restful setting for bedrooms. Created with a highly pigmented formula, this dusky pink can add personality to any space. Use alongside pink-based neutrals for a coordinating interior scheme.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2000,7 +2000,7 @@
   {
     "id": 216,
     "name": "Obsidian Green",
-    "description": "",
+    "description": "A classic off-black colour, Obsidian Green has since been a popular colour for front doors and exterior railings, but in the 1970s it provided a dramatic backdrop to natural wood furnishings and khaki.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2018,7 +2018,7 @@
   {
     "id": 219,
     "name": "Mirror",
-    "description": "",
+    "description": "A pared-down green with an unquestionable calming quality.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2036,7 +2036,7 @@
   {
     "id": 220,
     "name": "Pink Slip",
-    "description": "",
+    "description": "Based on red oxide, the name is a nod to both the petticoat colour and warm clay.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2054,7 +2054,7 @@
   {
     "id": 221,
     "name": "Basalt",
-    "description": "",
+    "description": "This distinctive blue-black paint achieves a timeless finish in both interior and exterior schemes. Basalt is a popular choice for front doors, where the natural light draws out its charismatic blue undertones. Create a sumptuous bedroom space with this intense shade, using orange for a modern contrast.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2072,7 +2072,7 @@
   {
     "id": 222,
     "name": "Loft White",
-    "description": "",
+    "description": "Almost pure white – always use in place of brilliant white which aggravates the eye.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2432,7 +2432,7 @@
   {
     "id": 252,
     "name": "Dock Blue",
-    "description": "",
+    "description": "With its deep indigo hue, Dock Blue is an indulgent paint colour. A touch warmer than its greener sister shade, Royal Navy, this sumptuous blue creates real visual impact when used as a base. For a balanced interior scheme, pair with related neutrals or pale greys. Alternatively, use contrasting pinks to make a bold statement.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",
@@ -2450,7 +2450,7 @@
   {
     "id": 255,
     "name": "Smalt",
-    "description": "",
+    "description": "Almost pure white – always use in place of brilliant white which aggravates the eye.",
     "finishes": [
       "Absolute Matt Emulsion",
       "Intelligent Matt Emulsion",

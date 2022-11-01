@@ -5,7 +5,7 @@
       {
         "Handle": "{{ paint.name.replace(/\s+/g, '-').toLowerCase() }}",
         "Title": "{{ paint.name }} ({{ paint.id }})",
-        "Body (HTML)": `<p><span>{{ paint.name }}. {{ paint.description }}</span></p>{{ DefaultDescription }}`,
+        "Body (HTML)": "<p><span>{{ paint.name }}. {{ paint.description }}</span></p>{{ DefaultDescription }}",
         "Vendor": "Little Greene",
         "Product Category": "Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts > Art & Crafting Materials > Craft Paint, Ink & Glaze > Paint Mediums",
         "Type": "Paint",
